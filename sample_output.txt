@@ -1,0 +1,14 @@
+CLASS TEMPLATE - CALCULATOR
+
+Integer values: 10, 5
+Addition = 15
+Multiplication = 50
+
+Double values: 2.5, 1.5
+Addition = 4
+Multiplication = 3.75
+
+FUNCTION TEMPLATE - FIND MAXIMUM
+Maximum Integer (10, 20) = 20
+Maximum Float (4.5, 7.2) = 7.2
+Maximum Character ('A', 'Z') = Z
